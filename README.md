@@ -8,7 +8,7 @@ I'm a software engineering specialist with 2+ years of experience. I have skills
 
 * 🌍  I'm based in Uzbekistan.
 * ✉️  You can contact me at [skhayrullayev@gmail.com](mailto:skhayrullayev@gmail.com).
-* 🚀  I'm currently working as Backend Engineer at [tyba](https://abu-abdulloh.uz).
+* 🚀  I'm currently working as Backend Engineer.
 * 🧠  I'm learning Deep learning and Machine Learning.
 * 🤝  I'm open to collaborating on interesting projects.
 
